@@ -1,0 +1,12 @@
+src/
+  ├── assets/
+  │   └── index/
+  │       ├── moon.png
+  │       ├── star.png
+  │       └── background.png
+  ├── components/
+  ├── router/
+  ├── store/
+  ├── views/
+  ├── App.vue
+  └── main.js
