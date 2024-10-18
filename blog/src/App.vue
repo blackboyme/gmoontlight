@@ -7,6 +7,7 @@ import { RouterLink, RouterView } from 'vue-router'
     <header>
       <nav>
         <div class="nav-links">
+          <router-link to="/">Home</router-link>
           <router-link to="/moment">Moment</router-link>
           <router-link to="/dance">DANCE</router-link>
           <router-link to="/music">MUSIC</router-link>

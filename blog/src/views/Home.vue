@@ -9,7 +9,7 @@
         </div>
         <div class="title">
           <div class="main-title">
-            <span class="gmoon">GMOON</span> 
+            <span class="gmoon">GMOON </span> 
             <span class="light">
               <img src="@/assets/index/num.svg" alt="Num" class="num-icon">
               LIGHT
@@ -22,7 +22,7 @@
       </div>
     </div>
     <div class="right-section">
-      <img src="@/assets/index/background.png" alt="Background" class="background-image">
+      <img src="@/assets/index/background.jpg" alt="Background" class="background-image">
     </div>
   </div>
 </template>
